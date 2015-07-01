@@ -136,7 +136,7 @@ header .intro-text .skills {
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
-	text-decoration: overline;
+	text-decoration: overline, underline;
     }
 
     .navbar-fixed-top.navbar-shrink {
