@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!ownOCTYPE html>
 <html lang="en">
 
 <head>
@@ -24,7 +24,7 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+    <!--[if lt IE 9]>D
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
@@ -44,6 +44,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
+		<img src="img/rexapps.png" />
                 <a class="navbar-brand" href="#page-top">Rex Apps</a>
             </div>
 
@@ -170,16 +171,13 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p>Silvio Santos Ipsum vem pra lá, mah você vai pra cá. Agora vai, agora vem pra láamm. Ma vale dérreaisam? É dinheiro ou não éam? É por sua conta e riscoamm? Eu não queria perguntar isso publicamente, ma vou perguntar. Carla, você tem o ensino fundamentauam? Boca sujuam... sem vergonhuamm. Ma tem ou não tem o celular do milhãouamm? É namoro ou amizadeemm? Você veio da caravana de ondeammm? Mah roda a roduamm. É bom ou não éam? É por sua conta e riscoamm? Ma! Ao adquirir o carnê do Baú, você estará concorrendo a um prêmio de cem mil reaisam.</p>
                 </div>
                 <div class="col-lg-4">
                     <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i> Download Theme
-                    </a>
-                </div>
+>
             </div>
         </div>
     </section>
@@ -246,7 +244,7 @@
                 <div class="row">
                     <div class="footer-col col-md-4">
                         <h3>Localização	</h3>
-                        <p><br>Florianópolis, SC Brazil</p>
+                        <p><br>Florianópolis, SC Brasil</p>
                     </div>
                     <div class="footer-col col-md-4">
                         <h3>Pela Web</h3>
@@ -269,8 +267,8 @@
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+                        <h3>Sobre REXAPPS(Saulo)</h3>
+                        <p>GITHUB: <a>https://github.com/saulo3k/rexappssite<a></p>
                     </div>
                 </div>
             </div>
@@ -312,7 +310,7 @@
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    <strong><a href="http://startbootstrap.com">HSBC</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -349,7 +347,7 @@
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    <strong><a href="http://startbootstrap.com">GVT</a>
                                     </strong>
                                 </li>
                                 <li>Date:
@@ -386,7 +384,7 @@
                             <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    <strong><a href="http://startbootstrap.com">SASCAR</a>
                                     </strong>
                                 </li>
                                 <li>Date:
