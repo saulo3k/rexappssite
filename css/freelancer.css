@@ -236,8 +236,8 @@ section.success a.active {
     filter: grayscale(100%);
     filter: url(grayscale.svg); /* Firefox 4+ */
     filter: gray; /* IE 6-9 */
-    width: 178px;
-    height: 178px;
+    width: 128px;
+    height: 128px;
     border-radius: 90px;
     -webkit-border-radius: 90px;
     -moz-border-radius: 90px;
